@@ -9,6 +9,5 @@ Academically, I have a Bsc. Computer Science and an MBA (Strategic Management) b
 
 ## What am I doing here?
 
-I am a software developer. I develop mostly in Java, I am use Spring tools to deliver systems.
-I have also worked with Javascript, coffeescript, Node, PHP, Bootstrap, JQuery, Swift, Objective C, React and React Native.
+I am a Full stack software engineer. Backend I develop mostly in Java, I use Spring tools to deliver systems. Front end, I use React, with typescript. I have also worked with Coffeescript, Node, PHP, Bootstrap, JQuery, Swift, Objective C, React and React Native.
 
